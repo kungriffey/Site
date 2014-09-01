@@ -118,11 +118,11 @@ a:focus{
 }
 .blue
 {
-  color:#031881;
+  color:#282E75;
 }
 .orange
 {
-  color: #feb511;
+  color: #FCB415;
 }
 /*===================================================*/
 .space10
@@ -269,7 +269,7 @@ input[type="text"],input[type="email"],input[type="tel"],input[type="url"], inpu
   overflow-y:hidden !important; 
 }
 .navbar-default{
-  border-color:#0265c0;
+  border-color:#282E75;
 }
 .navbar{
   margin-bottom: 0px;
@@ -278,7 +278,7 @@ input[type="text"],input[type="email"],input[type="tel"],input[type="url"], inpu
   width: 100%;
   padding:0px;
   height: 73px;
-  background: #0265c0;
+  background: #282E75;
   box-shadow: 0px 1px 1px #222;
   z-index:10;
 }
@@ -289,8 +289,8 @@ div#main-nav {
 overflow-x: hidden;
 }
 .header .navbar-default {
- background-color: #0265c0; 
- border-color: #0265c0; 
+ background-color: #282E75; 
+ border-color: #282E75; 
 }
 .navbar-default .navbar-nav>li>a {
 color: #fff;
@@ -564,14 +564,14 @@ ul.et_pb_side_nav .side_nav_item a.active { background-color: #fff !important; }
 }
 #home button{
   font-size:;
-  background: #feb511;
+  background: #FCB415;
   color:#FFF;
   border:0px;
   transition:0.15s;
   -webkit-transition:0.15s;
 }
   #home button:hover{
-  background:rgba(3,24,129,0.5);
+  background:#282E75 ;
 }
 
 
@@ -939,7 +939,7 @@ margin-bottom: 20px;
 ------------------------------*/
 
 #footer {
-  background-color:#0265c0;
+  background-color:#282E75;
   text-align:center;
   padding:40px 0;
   color:#FFFFFF;
