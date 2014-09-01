@@ -347,7 +347,7 @@ margin-right: 150px;
    ========================================================================== */
 
 a.nav-expander {
-  background: none repeat scroll 0 0 #feb511;
+  background: none repeat scroll 0 0 #FCB415;
   color: #FFFFFF;
   display: block;
   font-size: 15px;
@@ -384,7 +384,7 @@ a.nav-expander.fixed {
 }
 
 nav {
-  background: #2d2f33;
+  background: #E3E5E5;
   display: block;
   height: 100%;
   overflow: auto;
@@ -549,11 +549,24 @@ ul.et_pb_side_nav .side_nav_item a.active { background-color: #fff !important; }
   font-size: 24px;
 }
 
+.img2 {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.post-title2
+{
+  padding-bottom: 5px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
 /*-----Home-----*/
 #home{
   width:100%;
   background:url(../img/1.jpg) no-repeat;
   background-size:cover;
+  opacity: 0.75;
   padding:15% 0% 5% 0%;
   text-align:center;
   overflow: hidden;
